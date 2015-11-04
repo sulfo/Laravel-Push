@@ -6,6 +6,10 @@
         {
             "name": "Emil Petersen",
             "email": "emil@ebsp.dk"
+        },
+        {
+            "name": "Michael Sørensen",
+            "email": "ms@squareweb.dk"
         }
     ],
     "autoload": {
