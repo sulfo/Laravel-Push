@@ -1,0 +1,20 @@
+{
+    "name": "sulfo/laravel-push",
+    "description": "Helps sending push notifications to iOS units",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emil Petersen",
+            "email": "emil@ebsp.dk"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^6.1@dev"
+    }
+}
